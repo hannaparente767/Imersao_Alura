@@ -1,0 +1,60 @@
+[
+    {
+        "nome": "Luiz Gonzaga",
+        "descricao": "Considerado o Rei do Baião, foi um dos maiores responsáveis por popularizar o forró, xote e baião em todo o Brasil.",
+        "ano": 1912,
+        "link": "https://pt.wikipedia.org/wiki/Luiz_Gonzaga",
+        "imagem": "img/luiz.png"
+    },
+    {
+        "nome": "Dominguinhos",
+        "descricao": "Cantor, compositor e sanfoneiro pernambucano, discípulo de Luiz Gonzaga e um dos maiores nomes do forró tradicional.",
+        "ano": 1941,
+        "link": "https://pt.wikipedia.org/wiki/Dominguinhos",
+        "imagem": "img/domi.png"
+    },
+    {
+        "nome": "Elba Ramalho",
+        "descricao": "Cantora paraibana conhecida por unir forró, MPB e ritmos nordestinos em sua carreira de sucesso.",
+        "ano": 1951,
+        "link": "https://pt.wikipedia.org/wiki/Elba_Ramalho",
+        "imagem": "img/elba.png"
+    },
+    {
+        "nome": "Wesley Safadão",
+        "descricao": "Cantor cearense que modernizou o forró eletrônico e se tornou um dos artistas mais populares do Brasil.",
+        "ano": 1988,
+        "link": "https://pt.wikipedia.org/wiki/Wesley_Safad%C3%A3o",
+        "imagem": "img/wesley.png"
+    },
+    {
+        "nome": "Aviões do Forró",
+        "descricao": "Uma das maiores bandas de forró eletrônico do Nordeste, conhecida por hits que marcaram o gênero.",
+        "ano": 2002,
+        "link": "https://pt.wikipedia.org/wiki/Avi%C3%B5es_do_Forr%C3%B3",
+        "imagem": "img/avioes.png"
+    },
+    {
+        "nome": "Mastruz com Leite",
+        "descricao": "Grupo pioneiro no forró eletrônico dos anos 90, considerado uma das bandas mais influentes do gênero.",
+        "ano": 1990,
+        "link": "https://pt.wikipedia.org/wiki/Mastruz_com_Leite",
+        "imagem": "img/mastruz.png"
+    },
+    {
+        "nome": "Calcinha Preta",
+        "descricao": "Banda de forró eletrônico conhecida por misturar romantismo e performances marcantes.",
+        "ano": 1995,
+        "link": "https://pt.wikipedia.org/wiki/Calcinha_Preta",
+        "imagem": "img/cp.png"
+    },
+
+    {
+    "nome": "Sela Rasgada",
+    "descricao": "Sela Rasgada é uma banda de forró tradicional conhecida por misturar elementos do forró pé de serra com influências regionais. O grupo ganhou destaque com seu estilo autêntico e músicas que celebram a cultura nordestina.",
+    "ano": 2007,
+    "link": "https://www.selarasgada.com.br/", 
+    "imagem": "img/sela.png"
+}
+
+]
